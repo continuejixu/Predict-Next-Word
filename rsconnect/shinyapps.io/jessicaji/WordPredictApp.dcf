@@ -1,0 +1,12 @@
+name: WordPredictApp
+title: WordPredictApp
+username:
+account: jessicaji
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 232044
+bundleId: 1059611
+url: https://jessicaji.shinyapps.io/wordpredictapp/
+when: 1509864674.79421
+asMultiple: FALSE
+asStatic: FALSE
