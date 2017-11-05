@@ -13,10 +13,10 @@ The dataset is from SwiftKey, a industry partner with JHU. The original text dat
 1. **preprocessing.R**: Loading,sampling text dataset. Data cleaning & profanity filtering. Building N-Grams.
 2. **global.R**: Store all the functions and text analysis models to be used in the app.
 3. **ui.R/server.R**: Shiny App file.
-4. **ngram*.rds**: Cleaned ngrams data from preprocessing.
+4. **ngram.rds**: Cleaned ngrams data from preprocessing.
 5. **Milestone2**: A folder with a report on exploratory analysis of original text data. 
 
-## Main page of my Shiny App
+## ShinyApp Homepage
 ![screenshot](screenshot/shinyApp.PNG)
 
 ## Links
