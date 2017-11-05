@@ -17,7 +17,7 @@ The dataset is from SwiftKey, a industry partner with JHU. The original text dat
 5. **Milestone2**: A folder with a report on exploratory analysis of original text data. 
 
 ## ShinyApp Homepage
-![screenshot](screenshot/shinyApp.PNG)
+![screenshot](www/screenshot.PNG)
 
 ## Links
 
